@@ -6,10 +6,18 @@
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+    
+    <script src="https://code.highcharts.com/stock/highstock.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/data.js"></script>
   </head>
 
   <body>
-    <%= render partial: "home/navbar" %>
-    <%= yield %>
+  <%= render 'home/navbar' %>
+  <div id="container"></div>
+  
+  <%= render 'home/topchart' %>
+  <%= yield %>
+
   </body>
 </html>
