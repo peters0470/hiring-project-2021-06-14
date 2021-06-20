@@ -1,24 +1,49 @@
-# README
+# Big Commerce Hiring Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An app containing two different charts displaying weather temperatures at BigCommerce home office. 
 
-Things you may want to cover:
+# Purpose
+To display the past month of temperatures both high and low in 3 hour intervals. To display past month and next two days temperature forecast in 1 hour intervals. 
 
-* Ruby version
+# Functionality
+User is able to see the app on any device and output of past and present temperatures in specific locations. 
 
-* System dependencies
+# How To Use
+```
+bundle install
 
-* Configuration
+rails server
 
-* Database creation
+```
 
-* Database initialization
 
-* How to run the test suite
+# [Deployed Link]( ) 
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+# Screenshots
+![image]()
 
-* ...
+
+# Technologies Used
+>Ruby
+
+>Postgres
+
+>HighStock 
+
+>Bootstrap
+
+>Git 
+
+
+
+
+- - - 
+- - - 
+
+# Contribution
+
+*Created by*: 
+
+| Ryan Peters | peters0470@gmail.com | https://github.com/peters0470
+
