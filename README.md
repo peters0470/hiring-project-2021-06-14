@@ -21,7 +21,7 @@ rails server
 
 
 # Screenshots
-![image]()
+![image](https://user-images.githubusercontent.com/71112436/122766247-ed9e3e00-d266-11eb-8ff7-14c16378fefb.png)
 
 
 # Technologies Used
@@ -35,7 +35,7 @@ rails server
 
 >Git 
 
-
+>CoffeScript
 
 
 - - - 
