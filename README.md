@@ -21,7 +21,7 @@ rails server
 
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/71112436/122766247-ed9e3e00-d266-11eb-8ff7-14c16378fefb.png)
+![image](https://user-images.githubusercontent.com/71112436/122766686-7321ee00-d267-11eb-927e-2897b85ff7d9.png)
 
 
 # Technologies Used
